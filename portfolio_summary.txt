@@ -1,0 +1,5 @@
+Stock Portfolio Summary:
+AMZN: 140 shares × $140 = $19600
+TSLA: 250 shares × $250 = $62500
+
+Total Investment Value: $82100
